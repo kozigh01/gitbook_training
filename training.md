@@ -37,7 +37,7 @@ ReasonML
 
 ### Providers
 
-* \[Courstro\]\([https://coursetro.com/](https://coursetro.com/)\)
+* [Courstro\]\([https://coursetro.com/](https://coursetro.com/)\)
 * [Egghead.io](https://egghead.io/)
 * [Frontend Masters](https://frontendmasters.com/) [LinkedInLearning](https://www.linkedin.com/learning)
 * [MongoDB University](https://university.mongodb.com/)
