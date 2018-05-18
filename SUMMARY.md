@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Main List](README.md)
-* Main Index
+* [Training](main-index.md)
 * Bob
 * Angular
 
