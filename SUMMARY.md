@@ -2,6 +2,6 @@
 
 * [Main List](README.md)
 * Main Index
-* [Angular](angular.md)
 * Bob
+* Angular
 
