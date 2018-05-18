@@ -12,6 +12,8 @@ description: List of all training related resources
 
 ### Want To Do
 
+### Providers
+
 ## Blogs
 
 ### Angular
