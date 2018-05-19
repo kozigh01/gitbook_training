@@ -58,5 +58,3 @@ description: List of all training related resources
 
 ## Blogs
 
-### Angular
-
