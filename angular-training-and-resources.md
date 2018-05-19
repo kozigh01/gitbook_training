@@ -21,6 +21,5 @@
 
 ### Video
 
-[ng-conf 2018 \(youtube search\)](https://www.youtube.com/results?search_query=ng+conf+2018)[Raw](https://gist.github.com/kozigh01/14b53aee646eafd6480ffb548b422593/raw/c8c18d75f214f9d854746a087ccc9654ed6aff75/oauth-resource-list.md)  
-
+[ng-conf 2018 \(youtube search\)](https://www.youtube.com/results?search_query=ng+conf+2018)
 
