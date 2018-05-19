@@ -50,5 +50,3 @@ ReasonML
 
 ### Angular
 
-
-

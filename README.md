@@ -1,10 +1,8 @@
 ---
-description: The primary resource listing
+description: 'Training completed, in progress and want to do'
 ---
 
-# Main List
+# Training
 
-### This is a heading 2
-
-### This is another heading 2
+### 
 
