@@ -9,6 +9,7 @@ description: List of all training related resources
 ### In Progress
 * [End to End testing with Cypress](https://egghead.io/courses/end-to-end-testing-with-cypress)
 * [Angular 6 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview)
+* [ES6 and Beyond](https://scrimba.com/playlist/p4Mrt9)
 
 ### Completed
 
