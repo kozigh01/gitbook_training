@@ -3,11 +3,11 @@ description: List of all training related resources
 ---
 
 # Training
-* [End to End testing with Cypress](https://egghead.io/courses/end-to-end-testing-with-cypress)
 
 ## Courses
 
 ### In Progress
+* [End to End testing with Cypress](https://egghead.io/courses/end-to-end-testing-with-cypress)
 
 ### Completed
 
