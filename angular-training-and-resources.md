@@ -1,6 +1,9 @@
 # Angular Training and Resources
 
-[Angular Site](https://angular.io/)
+### Resources
+
+* [Angular Site](https://angular.io/)
+* [json-server](https://github.com/typicode/json-server)
 
 ### Courses
 
@@ -15,10 +18,6 @@
 ### Blog Posts
 
 [Upgrading and Application to Angular 6: Step by Step \(Dan Whalin\)](https://blog.codewithdan.com/2018/05/03/upgrading-an-application-to-angular-6-step-by-step/)
-
-### Resources
-
-[json-server](https://github.com/typicode/json-server)
 
 ### Video
 
