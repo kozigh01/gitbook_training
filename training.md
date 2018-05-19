@@ -14,6 +14,7 @@ description: List of all training related resources
 ### Completed
 
 * [LinkedInLearning: Web Security: OAuth and OpenID Connect](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect/welcome)
+* Learning Markdown:  [Course](https://www.linkedin.com/learning/learning-markdown)​ \| [Notes](https://mkresources.gitbook.io/misc/course-notes-learning-markdown)
 
 ### Want To Do
 
