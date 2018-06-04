@@ -56,6 +56,7 @@ description: List of all training related resources
 * [Pluralsight](https://www.pluralsight.com/)
 * [Scrimba](https://www.linkedin.com/learning)
 * [Udemy](https://www.udemy.com/) 
+* [Angular University](https://angular-university.io/)
 
 ## Blogs
 
